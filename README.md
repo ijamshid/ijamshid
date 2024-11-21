@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on friends
 - 📫 How to reach me email or phone number
 - 😄 Pronouns: good
-- ⚡ Fun fact: i am single
 
 <!---
 ijamshid/ijamshid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
